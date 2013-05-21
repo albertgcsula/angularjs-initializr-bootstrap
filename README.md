@@ -3,6 +3,7 @@ angularjs-initializr-bootstrap
 
 <p>This is a template for a simple AngularJS application integrated with the responsive Bootstrap HTML5 Boilerplate.</p>
 <p>Use it as a starting point to create responsive AngularJS applications.</p>
+<p>Utilizes AngularJS seed and Initilizr files.</p>
 
 # angular-seed — the seed for AngularJS apps
 
